@@ -1,8 +1,4 @@
-package web;
-
-
-//import jakarta.persistence.*;
-
+package web.models;
 
 
 public class Car {
@@ -20,9 +16,9 @@ public class Car {
 
     }
 
-    public Car() {
-
-    }
+//    public Car() {
+//
+//    }
 
     public String getColor() {
         return color;
